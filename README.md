@@ -97,7 +97,7 @@ You’ve successfully executed your Python script from scratch! 🐍✨
 
 ## ❓ Need Help?
 
-If you encounter any issues, feel free to [open an issue](https://github.com/your-repo-link/issues) on this repository.
+If you encounter any issues, feel free to [open an issue](https://github.com/edu-tech-opensource/json4Mter/issues) on this repository.
 
 ---
 
@@ -107,12 +107,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Made with ❤️ by [Your Name]
+Made by Alex Rodriguez
 ```
 
-### How to Use:
-1. Copy the entire Markdown code above.
-2. Paste it into a new file named `README.md` in your GitHub repository.
-3. Replace placeholders like `your-repo-link`, `script_name.py`, and `[Your Name]` with the appropriate values.
-
-This Markdown file is now ready to be used in your GitHub repository! 🚀
