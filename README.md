@@ -101,12 +101,7 @@ If you encounter any issues, feel free to [open an issue](https://github.com/edu
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 Made by Alex Rodriguez
 ```
+
 
