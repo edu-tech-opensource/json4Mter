@@ -101,6 +101,3 @@ If you encounter any issues, feel free to [open an issue](https://github.com/edu
 ---
 
 Made by Alex Rodriguez
-```
-
-
