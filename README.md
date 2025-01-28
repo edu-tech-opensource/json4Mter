@@ -1,7 +1,6 @@
-Here’s the complete `README.md` file with all the steps included, formatted as Markdown code:
 
 ```markdown
-# 🐍 Python Script Execution Guide
+# 🐍 Python Script Execution Guide for Json Formatter
 
 This guide will walk you through the steps to execute a Python script from scratch on a computer that has nothing installed (Python, Tkinter, and Requests) for both **Windows** and **macOS**.
 
